@@ -1,12 +1,31 @@
-- 👋 Hi, I’m @SOBHII97
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning MERN-STACK
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Abdelrhman (Sobhi) Elfakharani
+👋 Hi there! I'm Abdelrhman, a passionate computer science student currently diving deep into the world of web development.
 
-<!---
-SOBHII97/SOBHII97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 What I'm Working On:
+
+Learning and building projects with Node.js, Express.js, and the MERN stack.
+
+Enhancing my skills in JavaScript (ES5 & ES6), Python, Java, and C++.
+
+Exploring .NET and expanding my knowledge in backend development.
+
+🚀 Recent Project:
+
+Developed a MERN Stack CRUD Application where I implemented RESTful APIs using Node.js and Express.js, and built the frontend with React.js.
+
+🌱 Currently Learning:
+
+Advanced Node.js concepts and backend best practices.
+
+Improving my understanding of databases like MongoDB and SQL.
+
+📫 How to Reach Me:
+
+Email: sobhii7420@gmail.com
+
+
+🔗 Let's connect and collaborate on exciting projects!
+
+Feel free to adjust the CV and GitHub bio as per your preferences. Good luck with your interview and your learning journey! 🚀
+
+New chat
