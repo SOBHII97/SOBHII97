@@ -36,5 +36,4 @@ Email: sobhii7420@gmail.com
 Notes:
 ECPC Qualification: Mentioning your qualification for the ECPC is a strong addition to your profile, as it demonstrates your problem-solving abilities and competitive programming skills.
 
-Link to ECPC Certificate: If you have a certificate or proof of participation, you can include a link to it in your CV or GitHub bio (e.g., "Qualified for ECPC 2023 – View Certificate").
 
