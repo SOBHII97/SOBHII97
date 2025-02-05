@@ -38,4 +38,3 @@ ECPC Qualification: Mentioning your qualification for the ECPC is a strong addit
 
 Link to ECPC Certificate: If you have a certificate or proof of participation, you can include a link to it in your CV or GitHub bio (e.g., "Qualified for ECPC 2023 – View Certificate").
 
-Good luck with your interview and your continued learning journey! 🚀
