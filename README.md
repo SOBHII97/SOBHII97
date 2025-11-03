@@ -33,7 +33,5 @@ Email: sobhii7420@gmail.com
 
 🔗 Let's connect and collaborate on exciting projects!
 
-Notes:
-ECPC Qualification: Mentioning your qualification for the ECPC is a strong addition to your profile, as it demonstrates your problem-solving abilities and competitive programming skills.
 
 
