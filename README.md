@@ -1,37 +1,33 @@
-Abdelrhman Sobhi
-👋 Hi there! I'm Abdelrhman, a passionate computer science student currently diving deep into the world of web development and competitive programming.
+# Hi, I'm Abdelrahman (Sobhi) 👋
 
-💻 What I'm Working On:
+**Backend-focused Full-Stack Engineer** based in Cairo, Egypt.
+I build reliable APIs and clean data models with Node.js, TypeScript, GraphQL, and PostgreSQL/MySQL.
 
-Learning and building projects with Node.js, Express.js, and the MERN stack.
+**Open for freelance and contract work** 🚀
 
-Enhancing my skills in JavaScript (ES5 & ES6), Python, Java, and C++.
+## What I've built
+Over the past year I built production systems (private repos):
+- **Hotel & Travel CRM:** multi-party financial transactions, account statements, batched GraphQL endpoints
+- **Medical ERP:** finance module (journal, trial balance), automated payroll, memberships and loyalty points, 7-role RBAC, real-time notifications with Socket.io
 
-Exploring .NET and expanding my knowledge in backend development.
+## Tech stack
+**Backend:** Node.js · TypeScript · Express · Apollo GraphQL · Prisma · REST
+**Databases:** PostgreSQL · MySQL · MongoDB
+**Frontend:** React · Tailwind CSS · Ant Design
+**Tools:** Git · GitHub · Postman
 
-🚀 Recent Project:
+## Featured projects
+- **[Project name](link)**: one line on what it does and the stack
+- **[Gestiva (MERN)](link)**: full-stack platform with an admin dashboard
+- **[Prescription OCR (Flask + TrOCR)](link)**: graduation project, handwritten prescription interpretation
 
-Developed a MERN Stack CRUD Application where I implemented RESTful APIs using Node.js and Express.js, and built the frontend with React.js.
+## Problem solving
+- ECPC qualifier
+- [Codeforces](link) · [VJudge](link)
+- Strong in C++ for algorithms and data structures
 
-🏆 Competitive Programming:
+## Currently learning
+Data structures in TypeScript, software design principles, and advanced Node.js patterns.
 
-Qualified for the Egyptian Collegiate Programming Contest (ECPC).
-
-Active participant on Codeforces (sobhyy74, sobhii74) and VJudge (Abdelrhmansobhii).
-
-Strong problem-solving skills in C++ with a focus on algorithms and data structures.
-
-🌱 Currently Learning:
-
-Advanced Node.js concepts and backend best practices.
-
-Improving my understanding of databases like MongoDB and SQL.
-
-📫 How to Reach Me:
-
-Email: sobhii7420@gmail.com
-
-🔗 Let's connect and collaborate on exciting projects!
-
-
-
+## Contact
+📧 sobhii7420@gmail.com · [LinkedIn](link) · [CV](link)
