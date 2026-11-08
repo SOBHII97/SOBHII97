@@ -17,9 +17,8 @@ Over the past year I built production systems (private repos):
 **Tools:** Git · GitHub · Postman
 
 ## Featured projects
-- **[Project name](link)**: one line on what it does and the stack
-- **[Gestiva (MERN)](link)**: full-stack platform with an admin dashboard
-- **[Prescription OCR (Flask + TrOCR)](link)**: graduation project, handwritten prescription interpretation
+- **[Gestiva (MERN)](https://github.com/SOBHII97/innovative-idea)**: full-stack platform with an admin dashboard
+- **[Prescription OCR (Flask + TrOCR)](https://github.com/SOBHII97/handwritten-prescription-backend)**: graduation project, handwritten prescription interpretation
 
 ## Problem solving
 - ECPC qualifier
@@ -30,4 +29,4 @@ Over the past year I built production systems (private repos):
 Data structures in TypeScript, software design principles, and advanced Node.js patterns.
 
 ## Contact
-📧 sobhii7420@gmail.com · [LinkedIn](link) · [CV](link)
+📧 sobhii7420@gmail.com · [LinkedIn](https://www.linkedin.com/in/abdelrhman-sobhi-44a28b242/) · [CV]([link](https://drive.google.com/file/d/1veTW8YIxfCJKP4ijRhI4HzK6d_DlZjdO/view?usp=sharing))
