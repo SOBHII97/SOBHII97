@@ -29,4 +29,4 @@ Over the past year I built production systems (private repos):
 Data structures in TypeScript, software design principles, and advanced Node.js patterns.
 
 ## Contact
-📧 sobhii7420@gmail.com · [LinkedIn](https://www.linkedin.com/in/abdelrhman-sobhi-44a28b242/) · [CV]([link](https://drive.google.com/file/d/1veTW8YIxfCJKP4ijRhI4HzK6d_DlZjdO/view?usp=sharing))
+📧 sobhii7420@gmail.com · [LinkedIn](https://www.linkedin.com/in/abdelrhman-sobhi-44a28b242/) · [CV](https://drive.google.com/file/d/1veTW8YIxfCJKP4ijRhI4HzK6d_DlZjdO/view?usp=sharing)
