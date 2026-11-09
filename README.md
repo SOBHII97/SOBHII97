@@ -22,7 +22,7 @@ Over the past year I built production systems (private repos):
 
 ## Problem solving
 - ECPC qualifier
-- [Codeforces]([link](https://codeforces.com/profile/sobhii74)) · [VJudge]([link](https://vjudge.net/user/Abdelrhmansobhii)) . [Codeforces2]([link][(https://codeforces.com/profile/sobhii74)](https://codeforces.com/profile/sobhyy74))
+- [Codeforces](https://codeforces.com/profile/sobhii74) · [Codeforces 2](https://codeforces.com/profile/sobhyy74) · [VJudge](https://vjudge.net/user/Abdelrhmansobhii)
 - Strong in C++ for algorithms and data structures
 
 ## Currently learning
